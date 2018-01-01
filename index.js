@@ -6,5 +6,5 @@ function inc(n) { return (n += 1)}
 function dec(n) { return (n -= 1)}
 
 function makeInt(n) {
-  return (parseint('n',10))
+  return (parseInt('n',10))
 }
